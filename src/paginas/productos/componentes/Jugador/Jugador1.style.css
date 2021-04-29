@@ -1,0 +1,16 @@
+.pr-container {
+    border: 2px solid rgb(25, 124, 190);
+    text-align: left;
+    margin-bottom: 2px;
+}
+
+.rt-container {
+    border: 1px solid rgb(190, 25, 25);
+    text-align: center;
+    
+}
+
+.pr-stock{
+    color :red;
+    font-weight: bold;
+}

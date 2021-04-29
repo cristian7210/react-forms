@@ -1,0 +1,17 @@
+.pt-container {
+    margin: 0 auto;
+    width: 90%;
+    min-height: 74%;
+    border: 1px solid green;   
+    padding: 10px;
+    
+ }
+
+ .formulario {
+
+    margin: 0 auto;
+    background: cornflowerblue;
+    flex-direction: row;
+    justify-content: center;
+ }
+ 

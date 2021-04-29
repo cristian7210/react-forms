@@ -1,0 +1,8 @@
+.sb-container {
+    margin: 0 auto;
+    width: 90%;
+    min-height: 10%;
+    border: 1px solid blue;   
+    padding: 10px;
+    margin-top: 5px;
+ }
